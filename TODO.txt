@@ -1,3 +1,4 @@
 Done the first 4 lol
 
 Pending tasks ( pulling from remote source, diff between git versios)
+wowowowo
